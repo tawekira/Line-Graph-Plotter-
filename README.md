@@ -6,6 +6,7 @@ Description: A simple line graph plotter written entirely in python. This code c
 4. Line Style and colour 
   
 This code requires the packages seaborn and matplotlib  
+Do note that the program is caps sensitive and wrong spelling will cause an error  
 For easy access, you can use this code on google colab for quick and easy usage  
 Do suggest any improvments should you have them!
 
