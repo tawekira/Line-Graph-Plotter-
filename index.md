@@ -4,9 +4,6 @@ Line Graph Plotter allows for extensive customisation of many features in order 
 ![image](https://user-images.githubusercontent.com/82096960/122642884-3a86f500-d13f-11eb-8f9a-f7631020defa.png)
 ##### Sample Graph
 
-### Features
-1. 
-
 ### Code
 ```markdown
 import matplotlib.pyplot as plt
